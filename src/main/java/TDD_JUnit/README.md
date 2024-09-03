@@ -1,4 +1,7 @@
 # Kysymykset ja vastaukset
+
+[Testit täällä](https://github.com/Wimmu/DesignPatterns-2024/tree/main/src/test/java/TDD_JUnit)
+
 ### a. Mitä assertArrayEquals-metodi tekee?
 assertArrayEquals-metodi JUnitissa tarkistaa, ovatko kaksi taulukkoa keskenään yhtä suuret. Se vertaa taulukkojen kaikkia elementtejä ja varmistaa, että ne ovat identtisiä, sekä pituudeltaan että sisällöltään. Jos taulukot eivät ole samanlaiset, testi epäonnistuu, ja JUnit heittää virheen.
 
